@@ -25,7 +25,4 @@ This project demonstrates how to perform various statistical calculations on a l
      - Row-wise result
      - Overall matrix result
 
-## Example Usage:
 
-```python
-from matrix_calculations import calculate
